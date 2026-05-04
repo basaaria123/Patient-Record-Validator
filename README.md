@@ -74,6 +74,8 @@ python main.py
 ```
 
 ## 📤 Sample Output
+
+
 ✅ Valid Records
 ID      Name                Age   Phone
 --------------------------------------------------
