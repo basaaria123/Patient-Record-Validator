@@ -7,6 +7,7 @@ The Patient Record Validator is a Python-based system designed to validate, proc
 The application classifies records into **valid** and **invalid**, provides detailed error categorization, and visualizes the results for better analysis.
 
 ---
+## Project Banner
 ![Patient Record Validator Banner](https://github.com/basaaria123/Patient-Record-Validator/blob/main/Project%20Banner.png?raw=true)
 ![Patient Record Validator Banner](https://github.com/basaaria123/Patient-Record-Validator/blob/main/Project%20Banner%202.png?raw=true)
 
