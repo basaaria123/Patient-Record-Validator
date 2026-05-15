@@ -145,12 +145,6 @@ This project demonstrates the application of **data validation, exception handli
 
 ---
 
-## 👤 Author
-
-- Your Name  
-
----
-
 ## 📜 License
 
 This project is intended for **educational purposes**.
